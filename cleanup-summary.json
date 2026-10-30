@@ -144,5 +144,5 @@
     "refs/tags/3.5.7"
   ],
   "encrypted_backup_sha256": "e95abb7976e309f08d105c51621cd18d71df5582f19c55592514dcf69f38bcb0",
-  "published": false
+  "published": true
 }
